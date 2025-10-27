@@ -1,0 +1,7 @@
+{
+  "name": "KaraokeTube",
+  "description": "A web application that simulates a karaoke experience by allowing users to search for karaoke versions of songs on YouTube and play them directly within the app.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
